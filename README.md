@@ -1,7 +1,7 @@
 ## Oi eu sou a Thamires Aluiza, estudante de programação e tecnologia!
 
 <div>
-<img height= "180cm" src ="https://github-readme-stats.vercel.app/api?username=thamiresaluiza&show_icons=true&theme=radical"/>
+<img height= "180cm" src ="https://github-readme-stats.vercel.app/api?username=thamiresaluiza&show_icons=true&theme=dracula"/>
 <img height= "180cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresaluiza&layout=compact&langs_count=168&theme=dracula"/>
  </div>
 
