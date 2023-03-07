@@ -15,9 +15,11 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="Thami-html" height="30" width="40" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+ <img align="center" alt="Logo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
  <img align="center" alt="Logo-Git" height="30" width="40"          src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
- <img align="center" alt="Logo Gabi CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg">
                  
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
           
           
   <img align="right" alt="Thami-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100437554/223547557-4719085b-bf7f-46e4-889b-2fca8d80f4cc.jpeg">
