@@ -20,6 +20,9 @@
  <img align="center" alt="Logo-Git" height="30" width="40"    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
  <img align="center" alt="Logo-android-studio" height="30" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="center" alt="Logo-android-studio" height="30" width="40" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+          
           
                  
                     
