@@ -1,4 +1,4 @@
-## Oi eu sou a Thamires Aluiza, estudante de programação e tecnologia!
+## Olá sou a Thamires, estudante de programação e tecnologia!
 
 <div>
 <img height= "180em" src ="https://github-readme-stats.vercel.app/api?username=thamiresaluiza&show_icons=true&theme=dracula"/>
