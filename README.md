@@ -1,7 +1,11 @@
 ## Oi eu sou a Thamires Aluiza, estudante de programação e tecnologia!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamiresaluiza&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresaluiza&layout=compact)](https://github.com/thamiresaluiza/github-readme-stats)
+<div>
+<img height= "180cm" src ="https://github-readme-stats.vercel.app/api?username=thamiresaluiza&show_icons=true&theme=radical"/>
+<img height= "180cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresaluiza&layout=compact&langs_count=168&theme=dracula"/>
+ </div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
