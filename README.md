@@ -1,6 +1,6 @@
 ## Olá sou a Thamires, estudante de programação e tecnologia!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Thamires%20Santos&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%Back%20End&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Thamires%20Santos&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%BACK%20End&descAlignY=50"">
 <div>
 <img height= "180em" src ="https://github-readme-stats.vercel.app/api?username=thamiresaluiza&show_icons=true&theme=dark"/>
 <img height= "180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thamiresaluiza&layout=compact&langs_count=168&theme=dark"/>
