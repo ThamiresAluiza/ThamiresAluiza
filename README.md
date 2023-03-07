@@ -44,7 +44,6 @@
            
   <img align="right" alt="Thami-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100437554/223547557-4719085b-bf7f-46e4-889b-2fca8d80f4cc.jpeg">
 </div>
-<hr>
   
 <div> 
   <a href = "mailto:thamiresaluiza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
