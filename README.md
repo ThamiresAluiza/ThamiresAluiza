@@ -13,7 +13,7 @@
                  
           
           
-  <img align="right" alt="Thami-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100437554/223547557-4719085b-bf7f-46e4-889b-2fca8d80f4cc.jpeg">
+  <img align="right" alt="Thami-pic" height="150" style="border-radius:150px;" src="https://user-images.githubusercontent.com/100437554/223547557-4719085b-bf7f-46e4-889b-2fca8d80f4cc.jpeg">
 </div>
   
   ##
